@@ -29,3 +29,8 @@ Proyek ini adalah HTML statis, sehingga tidak memerlukan instalasi apapun.
 
 **Opsi 2:** Buka langsung berkas `index.html` di browser (klik dua kali dari File Explorer).
 
+
+## Tampilan Expense Tracker App
+
+<img width="960" height="504" alt="Screenshot 2026-09-11 113853" src="https://github.com/user-attachments/assets/35cd06ba-4bfc-4635-80ce-062176b22af8" />
+
